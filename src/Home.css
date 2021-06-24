@@ -1,0 +1,19 @@
+.home{
+    position: relative;
+    height: 650px;
+    border-radius: 20px;
+    overflow: scroll;
+    width: 100%;
+    max-width: 500px;
+    scroll-snap-type: y mandatory;
+    
+}
+
+.home ::-webkit-scrollbar{
+    display: none;
+}
+
+.home{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

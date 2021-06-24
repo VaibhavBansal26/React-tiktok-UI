@@ -1,0 +1,14 @@
+.video__header{
+    position: absolute;
+    top:0%;
+    padding: 14px;
+    color: white;
+    left: 0%;
+}
+
+.video__header > img{
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    
+}
